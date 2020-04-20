@@ -1,2 +1,3 @@
 # Java Text Editor
- A Java console text file editor with built in encryption & decryption features
+ A Java console text file editor with built in encryption & decryption features.
+ Download the project file & run it using an IDE, or download the classes independently from inside the 'src' folder
